@@ -35,10 +35,6 @@ angular
         templateUrl: 'views/me.html',
         controller: 'MeCtrl'
       })
-      .when('/TIY', {
-        templateUrl: 'views/tiy.html',
-        controller: 'TiyCtrl'
-      })
       .when('/Contact', {
         templateUrl: 'views/contact.html',
         controller: 'ContactCtrl'
